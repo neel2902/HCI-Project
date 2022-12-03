@@ -6,6 +6,8 @@
 *   2018B5A70924P
 
 
+Site hosted on github pages: https://neel2902.github.io/HCI-Project/
+
 
 
 
